@@ -23,3 +23,8 @@ Avant de commencer, assurez-vous que vous avez installé les éléments suivants
 
    ```bash
    cd chemin/vers/mon_projet
+
+4. Lancez Jupyter Notebook en entrant la commande suivante dans votre terminal :
+
+   ```bash
+   jupyter notebook
