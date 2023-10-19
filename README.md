@@ -15,4 +15,11 @@ Avant de commencer, assurez-vous que vous avez installé les éléments suivants
 1. Clonez le référentiel (si nécessaire):
 
    ```bash
-   git clone https://github.com/Saadiinho/Horror-Movies
+   git clone https://github.com/Saadiinho/Horror-Movies.git
+
+2. Ouvrez votre terminal ou invite de commande.
+
+3. Accédez au répertoire contenant le fichier .ipynb en utilisant la commande `cd` (change directory). Par exemple, si le fichier est dans le dossier "mon_projet", vous pouvez entrer :
+
+   ```bash
+   cd chemin/vers/mon_projet
