@@ -28,3 +28,9 @@ Avant de commencer, assurez-vous que vous avez installé les éléments suivants
 
    ```bash
    jupyter notebook
+
+5. Dans l'interface de Jupyter, naviguez jusqu'au fichier .ipynb que vous souhaitez exécuter et cliquez sur son nom pour l'ouvrir.
+
+6. Vous pouvez maintenant interagir avec le notebook et exécuter les cellules de code. Pour exécuter une cellule, sélectionnez-la et appuyez sur Shift + Enter.
+
+7. Continuez à exécuter les cellules de code selon vos besoins et suivez les instructions spécifiques du notebook.
